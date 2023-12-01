@@ -7,3 +7,5 @@ torch
 transformers
 
 datasets
+
+cd ./Desktop에 git clone해서 항상 사용
